@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db8722b-9e4c-49f3-830c-34ce01400c81" name="Default Changelist" comment="" />
+    <list default="true" id="9db8722b-9e4c-49f3-830c-34ce01400c81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Django_Angular_RestAPI/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Django_Angular_RestAPI/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +24,7 @@
         <option value="vipin-s0106 &lt;vipin.s0106@gmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Frontend_Angular/crud" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aOHJOWWB5AfTUIYhyToqUkNv5O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -34,8 +38,13 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Frontend_Angular/crud/src/app" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\Basic_Django_Angular_RestAPI\Frontend_Angular\crud\src\app" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="RUN" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -128,9 +137,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586679994853" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586669209069">
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586691134610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586669209069" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586691134610" />
   </component>
 </project>
